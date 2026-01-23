@@ -3,8 +3,7 @@ let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 exibirMensagemIncicial();
-//TESTE bora ver se vai
-
+//TESTE bora essa bomba
 
 // Função para exibir texto na tela e falar o texto em voz alta
 function exibirTextoNaTela(tag, texto) {
