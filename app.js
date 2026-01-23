@@ -3,8 +3,7 @@ let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 exibirMensagemIncicial();
-//TESTE
-console.log(`Número secreto (para testes): ${numeroSecreto}`);
+//TESTE bora ver se vai
 
 
 // Função para exibir texto na tela e falar o texto em voz alta
