@@ -3,6 +3,7 @@ let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 exibirMensagemIncicial();
+//outro test de commit
 
 // Função para exibir texto na tela e falar o texto em voz alta
 function exibirTextoNaTela(tag, texto) {
